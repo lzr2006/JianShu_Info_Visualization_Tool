@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace JIVT_GUI
+namespace JVIT_GUI
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace JIVT_GUI
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Main());
+            Application.Run(new Form1());
         }
     }
 }
