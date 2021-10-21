@@ -1,2 +1,4 @@
-# JianShu_Info_Visualization_Tool
-JIVT
+# 简书信息可视化工具
+
+**图形可视化创造未来**
+JIVT基于Python打包的exe，使用C#将jrt中大量的代码操作汇聚与轻轻一点，把数据处理交给我们，大家只需要看JIVT上输出的数据，就可以轻松的进行自我分析，调整创作方式，JIVT，优化您的创作体验。
