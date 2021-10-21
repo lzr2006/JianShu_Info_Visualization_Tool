@@ -8,4 +8,8 @@ JIVT基于Python打包的exe，使用C#将jrt中大量的代码操作汇聚与�
 
 不负韶华，砥砺前行，方法盒子，仍在努力。
 
+
 # 使用注意事项
+软件使用C#进行编写，在运行程序之前，您可能需要：
+- Microsoft .Net FrameWork 4.5
+- Microsoft C++ Runtime 2012
