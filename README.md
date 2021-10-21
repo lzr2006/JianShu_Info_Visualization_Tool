@@ -13,3 +13,11 @@ JIVT基于Python打包的exe，使用C#将jrt中大量的代码操作汇聚与�
 软件使用C#进行编写，在运行程序之前，您可能需要：
 - Microsoft .Net FrameWork 4.5
 - Microsoft C++ Runtime 2012
+
+如果您想直接使用源码版，您可能需要：
+- Microsoft .Net FrameWork 4.5
+- Microsoft C++ Runtime 2012
+- SunnyUI(A C# module)
+- Python Runtime
+- Jianshu Research Tool(A Python module)
+
